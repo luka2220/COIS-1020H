@@ -1,0 +1,6 @@
+/Volumes/Samsung_T5/school/Computer Science/Semesters/Winter 2022/COIS 1020H/Labs/Lab1/Lab1/Lab1/obj/Debug/Lab1.csproj.AssemblyReference.cache
+/Volumes/Samsung_T5/school/Computer Science/Semesters/Winter 2022/COIS 1020H/Labs/Lab1/Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Volumes/Samsung_T5/school/Computer Science/Semesters/Winter 2022/COIS 1020H/Labs/Lab1/Lab1/Lab1/obj/Debug/Lab1.exe
+/Volumes/Samsung_T5/school/Computer Science/Semesters/Winter 2022/COIS 1020H/Labs/Lab1/Lab1/Lab1/obj/Debug/Lab1.pdb
+/Volumes/Samsung_T5/school/Computer Science/Semesters/Winter 2022/COIS 1020H/Labs/Lab1/Lab1/Lab1/bin/Debug/Lab1.exe
+/Volumes/Samsung_T5/school/Computer Science/Semesters/Winter 2022/COIS 1020H/Labs/Lab1/Lab1/Lab1/bin/Debug/Lab1.pdb
