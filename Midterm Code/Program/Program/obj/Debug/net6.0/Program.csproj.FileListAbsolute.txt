@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\bin\Debug\net6.0\Program.exe
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\bin\Debug\net6.0\Program.deps.json
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\bin\Debug\net6.0\Program.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\bin\Debug\net6.0\ref\Program.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\bin\Debug\net6.0\Program.pdb
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\ref\Program.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.pdb
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Midterm Code\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache

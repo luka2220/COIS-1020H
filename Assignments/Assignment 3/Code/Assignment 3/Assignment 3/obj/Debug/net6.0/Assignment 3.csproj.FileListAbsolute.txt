@@ -1,0 +1,15 @@
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.exe
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.deps.json
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.runtimeconfig.json
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\bin\Debug\net6.0\ref\Assignment 3.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.pdb
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.csproj.AssemblyReference.cache
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.AssemblyInfoInputs.cache
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.AssemblyInfo.cs
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.csproj.CoreCompileInputs.cache
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\ref\Assignment 3.dll
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.pdb
+D:\school\Computer Science\Semesters\Winter 2022\COIS 1020H\Assignments\Assignment 3\Code\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.genruntimeconfig.cache
